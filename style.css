@@ -1,7 +1,29 @@
-body{
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: o;
-    background-color: pink;
+.internal{
+    background-color: gray;
+    color: orange;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.container{
+    background-color: aliceblue;
+    padding: 20px;
+    width: fit-content;
+}
+h1{
+    color: blue;
+    font-size: 32px;
+
+}
+.text1{
+    color: red;
+
+}
+.text2{
+    color: red;
+    font-weight: bold;
+}
+.text3{
+    color: red;
+    font-weight: blod;
 }
